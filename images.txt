@@ -1,2 +1,3 @@
-halohub/halo-pro:2.18.1
+halohub/halo-pro:latest
+vaultwarden/server:latest
 

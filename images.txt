@@ -1,2 +1,2 @@
-ghcr.io/halo-dev/halo:latest
+halohub/halo-pro:2.18.1
 

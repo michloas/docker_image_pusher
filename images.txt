@@ -1,3 +1,3 @@
 halohub/halo-pro:2.18.1
 vaultwarden/server:1.32.0-alpine
-
+mariadb:11.5.2

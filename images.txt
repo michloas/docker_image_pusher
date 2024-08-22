@@ -1,2 +1,2 @@
-registry.fit2cloud.com/halo/halo:latest
+ghcr.io/halo-dev/halo:latest
 

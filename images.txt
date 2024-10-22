@@ -1,8 +1,4 @@
-halohub/halo-pro:2.18.1
-vaultwarden/server:1.32.0-alpine
-mariadb:11.5.2
-phpmyadmin:5.2.1
-adminer:4.8.1
-bellamy/wallos:2.22.1
-metabase/metabase:latest
-
+nacos/nacos-server:v2.3.2
+redis:5.0.3
+xuxueli/xxl-job-admin:2.4.1
+mysql:5.7.26

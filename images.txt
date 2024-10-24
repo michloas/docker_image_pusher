@@ -1,6 +1,3 @@
-nacos/nacos-server:v2.3.2
-redis:5.0.3
-xuxueli/xxl-job-admin:2.4.1
-mysql:5.7.26
-openjdk:17
-portainer/portainer-ce:2.9.1
+mongo:6.0.18
+graylog/graylog-datanode:6.1
+graylog/graylog-enterprise:6.1
